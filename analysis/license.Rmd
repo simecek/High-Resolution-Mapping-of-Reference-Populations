@@ -1,0 +1,12 @@
+---
+title: "License"
+output:
+  html_document:
+    toc: false
+---
+
+\ 
+
+The code is distributed under [MIT](https://choosealicense.com/licenses/mit/) license. 
+
+The written content of this page can be used with [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/) license.

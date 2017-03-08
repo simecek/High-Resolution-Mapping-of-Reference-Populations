@@ -1,0 +1,9 @@
+---
+title: "About"
+output:
+  html_document:
+    toc: false
+---
+
+We carried out high-density genotyping using Affymetrix Mouse Diversity Array of 259 mouse inbred strains from three widely used recombinant inbred panels (BXD, LXS, AXB/BXA) and three sets of chromosomal substitution strains. Higher-resolution (avg. marker distance of ~4.3kb) improves the precision of genetic maps and enables us to identify genetic contamination, introgressions in substituted chromosomes and gene conversions. Although each of the strains was presumed to be inbred, we found that residual heterozygosity is common in most of these populations. Further, we identified and described de novo deletions and duplications, both homozygous and heterozygous ranging from 21kb to 8.4Mb and resulting in loss of exons of the known genes. Twenty-nine gene conversions were identified in the introgressed chromosomes of chromosomal substitution strains. The work has implications for dissection of complex traits using panels of inbred strains, particularly when the genomic regions of interest coincide with the deviations described here. The consensus genetic maps are available at http://risviewer.jax.org:3838/ris.
+
